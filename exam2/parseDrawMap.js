@@ -93,4 +93,4 @@
   // add to window
   window.parseData = parseData;
   window.drawMap = drawMap;
-}());
+})();

@@ -118,4 +118,4 @@
 
   window.to1240 = to1240; // add to window
   window.toDec = toDec; // add to window
-}());
+})();
